@@ -97,5 +97,5 @@ This code is licensed under the [CC BY 4.0 License](https://creativecommons.org/
 
 ---
 
-## 🙋‍♀️ Questions?
+## 🙋 Questions?
 Feel free to open an issue or visit our [project homepage](https://reefnet-project.github.io/reefnet-2025/) for more resources.
